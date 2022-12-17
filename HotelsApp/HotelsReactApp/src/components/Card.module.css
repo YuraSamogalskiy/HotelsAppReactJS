@@ -1,0 +1,100 @@
+.cardBody {
+  position: relative;
+  float: right;
+  margin: 10px;
+  margin-right: 10px;
+  width: 780px;
+  height: 200px;
+  border-radius: 15px;
+  box-shadow: 0 0 5px rgba(63, 62, 62, 0.585);
+  background-color: #f3f3f1de;
+  overflow: hidden;
+}
+
+.txt,
+.txt:hover,
+.txt:active {
+  text-decoration: none;
+  color: #252525;
+}
+
+h2 {
+  max-width: 50%;
+  margin: 10px 20px;
+  float: left;
+  transition: transform 500ms ease;
+}
+h2:hover {
+  transform: scale(1.01) translateX(2px);
+}
+
+.rate {
+  max-width: 50%;
+  margin: 0 20px;
+  float: left;
+}
+.city {
+  max-width: 50%;
+  margin: 10px 20px;
+  float: left;
+}
+.service {
+  max-width: 50%;
+  margin: 5px 20px;
+  float: left;
+}
+
+.status {
+  text-align: right;
+  margin-right: 25px;
+  margin-top: 15px;
+}
+
+/* text-align: center; */
+/* line-height: 30px; */
+/* font-weight: 500; */
+/* } */
+/* .service {
+  position: absolute;
+  right: 1px;
+  top: 100px;
+*/
+.addCard {
+  position: absolute;
+  right: 30px;
+  bottom: 30px;
+  background-color: #f5f5f5;
+  color: #252525;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  line-height: 30px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-weight: 600;
+  border: #fff;
+  transition: transform 500ms ease;
+}
+.addCard:hover {
+  transform: scale(1.1);
+  color: #ff0087;
+}
+.card {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.cardBody > img {
+  width: 45%;
+  float: left;
+  border-radius: 15px;
+  border-bottom-right-radius: 0;
+  border-top-right-radius: 0;
+  transition: transform 500ms ease;
+}
+
+.cardBody > img:hover {
+  transform: scale(1.05);
+}

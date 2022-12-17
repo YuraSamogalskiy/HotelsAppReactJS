@@ -1,0 +1,3572 @@
+[
+  {
+    "id": 1,
+    "name": "Море",
+    "url": "https://www.turpravda.ua/uc/alushta/More-h14912.html",
+    "rate": "9.3",
+    "city": "Місхор",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/02/73/27377.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Таврія",
+    "url": "https://www.turpravda.ua/uc/evpatoria/Tavrija-h25742.html",
+    "rate": "9.3",
+    "city": "Місхор",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/03/11/83/3118396.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Грінвіч",
+    "url": "https://www.turpravda.ua/uc/evpatoria/Grinvich-h38658.html",
+    "rate": "9.3",
+    "city": "Місхор",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/19/21/192122.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Чайка",
+    "url": "https://www.turpravda.ua/uc/yalta/Chayka1-h26392.html",
+    "rate": "9.3",
+    "city": "Місхор",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/07/80/78059.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Нева",
+    "url": "https://www.turpravda.ua/uc/alushta/Neva-h14913.html",
+    "rate": "9.3",
+    "city": "Місхор",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/02/91/17/2911721.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Аркадія",
+    "url": "https://www.turpravda.ua/uc/evpatoria/Arkadija-h40020.html",
+    "rate": "9.3",
+    "city": "Місхор",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/01/54/33/1543306.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Енігма",
+    "url": "https://www.turpravda.ua/uc/nikolaevka/Enigma-h20770.html",
+    "rate": "9.3",
+    "city": "Місхор",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/25/08/250851.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Porto Mare",
+    "url": "https://www.turpravda.ua/uc/alushta/Porto_Mare-h14907.html",
+    "rate": "9.3",
+    "city": "Місхор",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "4*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/04/01/86/4018656.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Вілла Олена К",
+    "url": "https://www.turpravda.ua/uc/mishor/Villa_Elena_K-h26010.html",
+    "rate": "9.3",
+    "city": "Місхор",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/07/68/76860.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Імперія",
+    "url": "https://www.turpravda.ua/uc/evpatoria/Imperija-h22445.html",
+    "rate": "9.3",
+    "city": "Місхор",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/28/00/280051.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Mriya Resort& Spa",
+    "url": "https://www.turpravda.ua/uc/yalta/Mriya_Resort___Spa-h47549.html",
+    "rate": "9.3",
+    "city": "Місхор",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "5*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/75/44/754451.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Вілла Колібрі",
+    "url": "https://www.turpravda.ua/uc/sevastopol/Villa_Kolibri-h27274.html",
+    "rate": "9.3",
+    "city": "Місхор",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/08/15/81585.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Ялта- Круглий Рік",
+    "url": "https://www.turpravda.ua/uc/yalta/Jalta___Kruglyy_God-h37802.html",
+    "rate": "9.3",
+    "city": "Місхор",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "4*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/17/54/175454.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Вілла S A N Y",
+    "url": "https://www.turpravda.ua/uc/nikolaevka/Villa_SANY-h20850.html",
+    "rate": "9.3",
+    "city": "Місхор",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/04/45/44550.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Ас- Ель",
+    "url": "https://www.turpravda.ua/uc/koktebel/As_El-h18766.html",
+    "rate": "9.3",
+    "city": "Місхор",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/02/01/19/2011921.jpg"
+  },
+  {
+    "id": 16,
+    "name": "П'яна Камбала",
+    "url": "https://www.turpravda.ua/uc/chernomorskoye/Pjanaja_Kambala-h33715.html",
+    "rate": "9.3",
+    "city": "Місхор",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/15/63/156317.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Амазонка",
+    "url": "https://www.turpravda.ua/uc/nikolaevka/Amazonka-h26738.html",
+    "rate": "9.3",
+    "city": "Місхор",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/75/46/754691.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Круїз",
+    "url": "https://www.turpravda.ua/uc/nikolaevka/Kruiz-h26017.html",
+    "rate": "9.3",
+    "city": "Місхор",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/07/64/76465.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Ларіно",
+    "url": "https://www.turpravda.ua/uc/chernomorskoye/Larino-h25785.html",
+    "rate": "9.3",
+    "city": "Місхор",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/07/53/75384.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Тимора",
+    "url": "https://www.turpravda.ua/uc/orlovka/Timora-h22952.html",
+    "rate": "9.3",
+    "city": "Місхор",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/05/70/57043.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Чарівна Каламіта",
+    "url": "https://www.turpravda.ua/uc/saki/Charivna_Kalamita-h35797.html",
+    "rate": "9.3",
+    "city": "Місхор",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/66/27/662736.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Сонячний Джангуль",
+    "url": "https://www.turpravda.ua/uc/olenevka/Solnechnyy_Dzhangul-h46393.html",
+    "rate": "9.3",
+    "city": "Місхор",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/68/72/687264.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Адмірал",
+    "url": "https://www.turpravda.ua/uc/sevastopol/Admiral-h33063.html",
+    "rate": "9.3",
+    "city": "Місхор",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "4*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/12/75/127568.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Марлін",
+    "url": "https://www.turpravda.ua/uc/olenevka/Marlin-h31918.html",
+    "rate": "9.3",
+    "city": "Місхор",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/03/72/05/3720508.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Вілла Михайла",
+    "url": "https://www.turpravda.ua/uc/mishor/Villa_Mihaila-h35405.html",
+    "rate": "9.3",
+    "city": "Місхор",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/15/15/151538.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Пансіонат Дача Бекетова",
+    "url": "https://www.turpravda.ua/uc/alushta/Pansionat_Dacha_Beketova-h87189.html",
+    "rate": "8.1",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/04/15/18/4151894.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Резиденція Кримський Бриз",
+    "url": "https://www.turpravda.ua/uc/yalta/Krymskiy_Briz-h35077.html",
+    "rate": "8.1",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "5*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/66/60/666002.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Sunrise",
+    "url": "https://www.turpravda.ua/uc/feodosia/Sunrise-h21650.html",
+    "rate": "8.1",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "4*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/04/92/49251.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Рига",
+    "url": "https://www.turpravda.ua/uc/schjolkino/Riga-h22092.html",
+    "rate": "8.1",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/81/32/813241.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Зоря",
+    "url": "https://www.turpravda.ua/uc/kerch/Zarja-h14944.html",
+    "rate": "8.1",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/03/96/39698.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Дель Мар",
+    "url": "https://www.turpravda.ua/uc/evpatoria/delmar-h56176.html",
+    "rate": "8.1",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/01/93/55/1935576.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Парк-готель Романова",
+    "url": "https://www.turpravda.ua/uc/evpatoria/Park_Otel_Romanova-h83238.html",
+    "rate": "8.1",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/03/86/16/3861620.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Аквілон",
+    "url": "https://www.turpravda.ua/uc/alupka/Akvilon-h23115.html",
+    "rate": "8.1",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/03/86/77/3867782.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Ліхтарі Гурзуфа",
+    "url": "https://www.turpravda.ua/uc/gurzuf/Fonari_Gurzufa-h26445.html",
+    "rate": "8.1",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/66/60/666098.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Бухта Мрії",
+    "url": "https://www.turpravda.ua/uc/sevastopol/Buhta_Mechty-h29513.html",
+    "rate": "8.1",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/09/57/95715.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Гостьовийбудинок Грей- S",
+    "url": "https://www.turpravda.ua/uc/feodosia/grej_s-h64196.html",
+    "rate": "8.1",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/02/52/48/2524826.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Олена",
+    "url": "https://www.turpravda.ua/uc/novyy_svet/Elena-h31460.html",
+    "rate": "8.1",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/11/30/113046.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Лазурний",
+    "url": "https://www.turpravda.ua/uc/alushta/Lazurnyy8-h23037.html",
+    "rate": "8.1",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/05/74/57484.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Перлина Дракона",
+    "url": "https://www.turpravda.ua/uc/rybache/Zhemchuzhina_Drakona-h20845.html",
+    "rate": "8.1",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/04/45/44535.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Триплюсдва",
+    "url": "https://www.turpravda.ua/uc/novyy_svet/Tri_pljus_dva-h26683.html",
+    "rate": "8.1",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/18/81/188125.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Де А З",
+    "url": "https://www.turpravda.ua/uc/kerch/DeAz-h19834.html",
+    "rate": "8.1",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/11/38/113855.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Планета",
+    "url": "https://www.turpravda.ua/uc/evpatoria/Planeta-h14932.html",
+    "rate": "8.1",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/02/75/27506.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Мустанг",
+    "url": "https://www.turpravda.ua/uc/kaciveli/Mustang-h21809.html",
+    "rate": "8.1",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/05/04/50418.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Вілла Блакитна Затока",
+    "url": "https://www.turpravda.ua/uc/simeiz/villa_goluboj_zaliv-h37577.html",
+    "rate": "8.1",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "4*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/26/05/260563.jpg"
+  },
+  {
+    "id": 45,
+    "name": "Утьос",
+    "url": "https://www.turpravda.ua/uc/utes/Utes-h18829.html",
+    "rate": "8.1",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/03/48/34804.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Мандарин",
+    "url": "https://www.turpravda.ua/uc/peschanoe/Mandarin-h24120.html",
+    "rate": "8.1",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/06/42/64226.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Посмішка",
+    "url": "https://www.turpravda.ua/uc/evpatoria/Ulybka-h26613.html",
+    "rate": "8.1",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/75/58/755882.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Апартаменти Херсонес",
+    "url": "https://www.turpravda.ua/uc/sevastopol/Apartamenty_Hersones-h18607.html",
+    "rate": "8.1",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/03/38/33811.jpg"
+  },
+  {
+    "id": 49,
+    "name": "Вілла Форос",
+    "url": "https://www.turpravda.ua/uc/foros/Villa_Foros-h31142.html",
+    "rate": "8.1",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/11/12/111294.jpg"
+  },
+  {
+    "id": 50,
+    "name": "Блакитнахвиля",
+    "url": "https://www.turpravda.ua/uc/alushta/Golubaja_volna-h10652.html",
+    "rate": "8.1",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/04/24/06/4240645.jpg"
+  },
+  {
+    "id": 51,
+    "name": "Бельбек Люкс",
+    "url": "https://www.turpravda.ua/uc/sevastopol/Belbek_Ljuks-h33499.html",
+    "rate": "8.2",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/13/21/132143.jpg"
+  },
+  {
+    "id": 52,
+    "name": "Морськийприбій",
+    "url": "https://www.turpravda.ua/uc/mishor/Morskoy_Priboy2-h15878.html",
+    "rate": "8.2",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/02/60/26068.jpg"
+  },
+  {
+    "id": 53,
+    "name": "Ай- Тодор- Юг",
+    "url": "https://www.turpravda.ua/uc/gaspra/Ay_Todor_Jug-h23494.html",
+    "rate": "8.2",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/05/98/59817.jpg"
+  },
+  {
+    "id": 54,
+    "name": "Golden Family Resort",
+    "url": "https://www.turpravda.ua/uc/alushta/Golden_Resort-h14919.html",
+    "rate": "8.2",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/03/98/96/3989699.jpg"
+  },
+  {
+    "id": 55,
+    "name": "Російська Рів'єра",
+    "url": "https://www.turpravda.ua/uc/yalta/Russkaja_Rivera-h20805.html",
+    "rate": "8.2",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/76/65/766512.jpg"
+  },
+  {
+    "id": 56,
+    "name": "Mar Le Mar Club",
+    "url": "https://www.turpravda.ua/uc/peschanoe/Mar_Le_Mar_Club-h29698.html",
+    "rate": "8.2",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "4*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/11/86/118605.jpg"
+  },
+  {
+    "id": 57,
+    "name": "Снігурі",
+    "url": "https://www.turpravda.ua/uc/gurzuf/Snegiri-h34882.html",
+    "rate": "8.2",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/14/80/148037.jpg"
+  },
+  {
+    "id": 58,
+    "name": "Новийокеан",
+    "url": "https://www.turpravda.ua/uc/chernomorskoye/Novyy_Okean-h40780.html",
+    "rate": "8.2",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "/static/img/no-image.png"
+  },
+  {
+    "id": 59,
+    "name": "Іва Марія",
+    "url": "https://www.turpravda.ua/uc/alushta/IvaMarija-h26386.html",
+    "rate": "8.2",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/07/80/78011.jpg"
+  },
+  {
+    "id": 60,
+    "name": "Московський",
+    "url": "https://www.turpravda.ua/uc/alushta/Moskovskiy-h10674.html",
+    "rate": "8.2",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "4*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/04/31/09/4310976.jpg"
+  },
+  {
+    "id": 61,
+    "name": "Норд",
+    "url": "https://www.turpravda.ua/uc/partenit/Nord-h16503.html",
+    "rate": "8.2",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/02/73/27376.jpg"
+  },
+  {
+    "id": 62,
+    "name": "Кедр- Захід",
+    "url": "https://www.turpravda.ua/uc/alupka/Kedr_Zapad-h27398.html",
+    "rate": "8.2",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/08/20/82071.jpg"
+  },
+  {
+    "id": 63,
+    "name": "Сонбіляморя",
+    "url": "https://www.turpravda.ua/uc/alupka/Son_u_morja-h26476.html",
+    "rate": "8.2",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/07/83/78387.jpg"
+  },
+  {
+    "id": 64,
+    "name": "Мулен Руж",
+    "url": "https://www.turpravda.ua/uc/sevastopol/Mulen_Ruzh-h38380.html",
+    "rate": "8.2",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/18/81/188117.jpg"
+  },
+  {
+    "id": 65,
+    "name": "Рубікон",
+    "url": "https://www.turpravda.ua/uc/mishor/Rubikon-h17928.html",
+    "rate": "8.2",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/03/17/31771.jpg"
+  },
+  {
+    "id": 66,
+    "name": "Альбатрос",
+    "url": "https://www.turpravda.ua/uc/novootradnoe/Albatros-h33765.html",
+    "rate": "8.2",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/13/49/134952.jpg"
+  },
+  {
+    "id": 67,
+    "name": "С П А-готель Л Е К С",
+    "url": "https://www.turpravda.ua/uc/koktebel/SPA_otel_LEKS-h45939.html",
+    "rate": "8.2",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/84/32/843236.jpg"
+  },
+  {
+    "id": 68,
+    "name": "Азов Ленд",
+    "url": "https://www.turpravda.ua/uc/novootradnoe/AzovLend-h42163.html",
+    "rate": "8.2",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/68/71/687115.jpg"
+  },
+  {
+    "id": 69,
+    "name": "Villa Al Marine",
+    "url": "https://www.turpravda.ua/uc/utes/Villa_Al_Marine-h22295.html",
+    "rate": "8.2",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "4*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/01/70/88/1708806.jpg"
+  },
+  {
+    "id": 70,
+    "name": "Яскравевітрило",
+    "url": "https://www.turpravda.ua/uc/sudak/Alyy_parus-h22772.html",
+    "rate": "8.2",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/05/58/55856.jpg"
+  },
+  {
+    "id": 71,
+    "name": "Atrium- King`s Way",
+    "url": "https://www.turpravda.ua/uc/sevastopol/Atrium___King_s_Way-h23104.html",
+    "rate": "8.2",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/07/47/74781.jpg"
+  },
+  {
+    "id": 72,
+    "name": "Казантип-центр Парк-готель",
+    "url": "https://www.turpravda.ua/uc/novootradnoe/Kazantip_Centr_Park_Otel-h48826.html",
+    "rate": "8.2",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/02/51/07/2510751.jpg"
+  },
+  {
+    "id": 73,
+    "name": "Villa Elena Hotel& Residences",
+    "url": "https://www.turpravda.ua/uc/yalta/Villa_Elena_Hotel___Residences-h21732.html",
+    "rate": "8.2",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "5*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/43/65/436582.jpg"
+  },
+  {
+    "id": 74,
+    "name": "Санаторій Форос",
+    "url": "https://www.turpravda.ua/uc/foros/Foros-h15465.html",
+    "rate": "8.2",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "4*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/03/89/88/3898817.jpg"
+  },
+  {
+    "id": 75,
+    "name": "Янгол",
+    "url": "https://www.turpravda.ua/uc/feodosia/Angel-h22857.html",
+    "rate": "8.2",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/05/64/56451.jpg"
+  },
+  {
+    "id": 76,
+    "name": "Софія",
+    "url": "https://www.turpravda.ua/uc/nikolaevka/Sofija-h23186.html",
+    "rate": "9.9",
+    "city": "Євпаторія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/05/82/58254.jpg"
+  },
+  {
+    "id": 77,
+    "name": "Park Avenue",
+    "url": "https://www.turpravda.ua/uc/koreiz/Park_Avenue-h48706.html",
+    "rate": "9.9",
+    "city": "Євпаторія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/89/64/896481.jpg"
+  },
+  {
+    "id": 78,
+    "name": "Олександрія",
+    "url": "https://www.turpravda.ua/uc/kaciveli/Aleksandrija-h37374.html",
+    "rate": "9.9",
+    "city": "Євпаторія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "4*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/04/87/48749.jpg"
+  },
+  {
+    "id": 79,
+    "name": "Казантип-центр",
+    "url": "https://www.turpravda.ua/uc/novootradnoe/Kazantip_Centr-h22907.html",
+    "rate": "9.9",
+    "city": "Євпаторія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/89/89/898946.jpg"
+  },
+  {
+    "id": 80,
+    "name": "Готель-курорт Брігантіна",
+    "url": "https://www.turpravda.ua/uc/feodosia/Brigantina-h20480.html",
+    "rate": "9.9",
+    "city": "Євпаторія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/76/18/761863.jpg"
+  },
+  {
+    "id": 81,
+    "name": "Чотирисезони",
+    "url": "https://www.turpravda.ua/uc/alupka/Chetyre_sezona-h37299.html",
+    "rate": "9.9",
+    "city": "Євпаторія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/17/28/172864.jpg"
+  },
+  {
+    "id": 82,
+    "name": "Магнолія",
+    "url": "https://www.turpravda.ua/uc/alupka/Magnolija-h45361.html",
+    "rate": "9.9",
+    "city": "Євпаторія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/52/53/525341.jpg"
+  },
+  {
+    "id": 83,
+    "name": "Lavillaal Mare",
+    "url": "https://www.turpravda.ua/uc/alupka/La_villa_al_Mare-h41102.html",
+    "rate": "9.9",
+    "city": "Євпаторія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/59/72/597200.jpg"
+  },
+  {
+    "id": 84,
+    "name": "Окунівка Тур",
+    "url": "https://www.turpravda.ua/uc/chernomorskoye/Okunevka_Tur-h27867.html",
+    "rate": "9.9",
+    "city": "Євпаторія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/08/54/85409.jpg"
+  },
+  {
+    "id": 85,
+    "name": "Гранд",
+    "url": "https://www.turpravda.ua/uc/sudak/Grand-h16594.html",
+    "rate": "9.9",
+    "city": "Євпаторія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "4*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/02/78/27851.jpg"
+  },
+  {
+    "id": 101,
+    "name": "Нашбудинок",
+    "url": "https://www.turpravda.ua/uc/alushta/Nash_dom-h36486.html",
+    "rate": "8.1",
+    "city": "Рибальське",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/16/64/166424.jpg"
+  },
+  {
+    "id": 102,
+    "name": "Вілла Реолі",
+    "url": "https://www.turpravda.ua/uc/foros/Villa_Reoli-h23051.html",
+    "rate": "8.1",
+    "city": "Рибальське",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/05/75/57599.jpg"
+  },
+  {
+    "id": 103,
+    "name": "Soldaya Grand Hotel& Resort",
+    "url": "https://www.turpravda.ua/uc/sudak/soldaya_grand_hotel_resort-h39167.html",
+    "rate": "8.1",
+    "city": "Рибальське",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "4*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/53/31/533102.jpg"
+  },
+  {
+    "id": 104,
+    "name": "Андре",
+    "url": "https://www.turpravda.ua/uc/koktebel/Andre-h22995.html",
+    "rate": "8.1",
+    "city": "Рибальське",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/05/88/58870.jpg"
+  },
+  {
+    "id": 105,
+    "name": "Князь Голіцин",
+    "url": "https://www.turpravda.ua/uc/novyy_svet/Knjaz_Golicyn-h19260.html",
+    "rate": "8.1",
+    "city": "Рибальське",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "4*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/03/67/36719.jpg"
+  },
+  {
+    "id": 106,
+    "name": "Агора",
+    "url": "https://www.turpravda.ua/uc/alushta/Agora-h24063.html",
+    "rate": "8.1",
+    "city": "Рибальське",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "4*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/06/37/63794.jpg"
+  },
+  {
+    "id": 107,
+    "name": "Da Vasko",
+    "url": "https://www.turpravda.ua/uc/alushta/Da_Vasko-h25602.html",
+    "rate": "8.1",
+    "city": "Рибальське",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/07/43/74393.jpg"
+  },
+  {
+    "id": 108,
+    "name": "Парк-готель Глорія",
+    "url": "https://www.turpravda.ua/uc/mishor/Park_Otel_Glorija-h25521.html",
+    "rate": "8.1",
+    "city": "Рибальське",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "4*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/71/03/710387.jpg"
+  },
+  {
+    "id": 109,
+    "name": "Російськеморе",
+    "url": "https://www.turpravda.ua/uc/evpatoria/Russkoe_more-h19964.html",
+    "rate": "8.1",
+    "city": "Рибальське",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/03/92/39288.jpg"
+  },
+  {
+    "id": 110,
+    "name": "Катран",
+    "url": "https://www.turpravda.ua/uc/privetnoe/Katran-h21048.html",
+    "rate": "8.1",
+    "city": "Рибальське",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "/static/img/no-image.png"
+  },
+  {
+    "id": 126,
+    "name": "Бельбек",
+    "url": "https://www.turpravda.ua/uc/sevastopol/Belbek-h39474.html",
+    "rate": "7.7",
+    "city": "Миколаївка",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/22/70/227006.jpg"
+  },
+  {
+    "id": 127,
+    "name": "Міні-готель Шампань",
+    "url": "https://www.turpravda.ua/uc/novyy_svet/Shampan-h33690.html",
+    "rate": "7.7",
+    "city": "Миколаївка",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/13/41/134128.jpg"
+  },
+  {
+    "id": 128,
+    "name": "Мрія-2",
+    "url": "https://www.turpravda.ua/uc/utes/Mechta_2-h24064.html",
+    "rate": "7.7",
+    "city": "Миколаївка",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/06/37/63795.jpg"
+  },
+  {
+    "id": 129,
+    "name": "Согдіана",
+    "url": "https://www.turpravda.ua/uc/nikolaevka/Sogdiana-h23698.html",
+    "rate": "7.7",
+    "city": "Миколаївка",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/06/09/60909.jpg"
+  },
+  {
+    "id": 130,
+    "name": "Ротонда",
+    "url": "https://www.turpravda.ua/uc/yalta/Rotonda-h15455.html",
+    "rate": "7.7",
+    "city": "Миколаївка",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "/static/img/no-image.png"
+  },
+  {
+    "id": 131,
+    "name": "Небокрай",
+    "url": "https://www.turpravda.ua/uc/sudak/Gorizont-h14967.html",
+    "rate": "7.7",
+    "city": "Миколаївка",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/03/83/77/3837799.jpg"
+  },
+  {
+    "id": 132,
+    "name": "Ренесанс",
+    "url": "https://www.turpravda.ua/uc/yalta/Renessans-h16519.html",
+    "rate": "7.7",
+    "city": "Миколаївка",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/02/74/27450.jpg"
+  },
+  {
+    "id": 133,
+    "name": "Домініка",
+    "url": "https://www.turpravda.ua/uc/beregovoe_feodosija/Dominika-h45934.html",
+    "rate": "7.7",
+    "city": "Миколаївка",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/66/58/665857.jpg"
+  },
+  {
+    "id": 134,
+    "name": "Білосніжка",
+    "url": "https://www.turpravda.ua/uc/evpatoria/Belosnezhka-h33136.html",
+    "rate": "7.7",
+    "city": "Миколаївка",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/12/82/128234.jpg"
+  },
+  {
+    "id": 135,
+    "name": "Морськазірка",
+    "url": "https://www.turpravda.ua/uc/olenevka/Morskaja_Zvezda-h38022.html",
+    "rate": "7.7",
+    "city": "Миколаївка",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/17/82/178249.jpg"
+  },
+  {
+    "id": 151,
+    "name": "Юпітер",
+    "url": "https://www.turpravda.ua/uc/evpatoria/Jupiter-h19886.html",
+    "rate": "8.0",
+    "city": "Саки",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "/static/img/no-image.png"
+  },
+  {
+    "id": 152,
+    "name": "La Vinya",
+    "url": "https://www.turpravda.ua/uc/alushta/La_Vinya-h23255.html",
+    "rate": "8.0",
+    "city": "Саки",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/05/86/58657.jpg"
+  },
+  {
+    "id": 153,
+    "name": "Мрія",
+    "url": "https://www.turpravda.ua/uc/chernomorskoye/Mechta-h26234.html",
+    "rate": "8.0",
+    "city": "Саки",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/07/72/77269.jpg"
+  },
+  {
+    "id": 154,
+    "name": "Лазурний",
+    "url": "https://www.turpravda.ua/uc/koktebel/Lazurnyy7-h23092.html",
+    "rate": "8.0",
+    "city": "Саки",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/05/77/57798.jpg"
+  },
+  {
+    "id": 155,
+    "name": "Віолет",
+    "url": "https://www.turpravda.ua/uc/mishor/Violet-h35340.html",
+    "rate": "8.0",
+    "city": "Саки",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/15/11/151112.jpg"
+  },
+  {
+    "id": 156,
+    "name": "Аквамарин",
+    "url": "https://www.turpravda.ua/uc/sudak/Akvamarin2-h23686.html",
+    "rate": "8.0",
+    "city": "Саки",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/06/08/60857.jpg"
+  },
+  {
+    "id": 157,
+    "name": "Еллінгив Ялті",
+    "url": "https://www.turpravda.ua/uc/yalta/Ellingi_v_Jalte-h39607.html",
+    "rate": "8.0",
+    "city": "Саки",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/23/06/230683.jpg"
+  },
+  {
+    "id": 158,
+    "name": "Балгатура",
+    "url": "https://www.turpravda.ua/uc/gurzuf/Balgatura-h21812.html",
+    "rate": "8.0",
+    "city": "Саки",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "4*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/05/04/50426.jpg"
+  },
+  {
+    "id": 159,
+    "name": "Мокроусова",
+    "url": "https://www.turpravda.ua/uc/sevastopol/Mokrousova-h15463.html",
+    "rate": "8.0",
+    "city": "Саки",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/05/30/53033.jpg"
+  },
+  {
+    "id": 160,
+    "name": "Dilas",
+    "url": "https://www.turpravda.ua/uc/evpatoria/Dilas-h47476.html",
+    "rate": "8.0",
+    "city": "Саки",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/02/59/97/2599711.jpg"
+  },
+  {
+    "id": 176,
+    "name": "Бон Мезон",
+    "url": "https://www.turpravda.ua/uc/alushta/Bon_Mezon-h24227.html",
+    "rate": "9.0",
+    "city": "Місхор",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/06/48/64849.jpg"
+  },
+  {
+    "id": 177,
+    "name": "Вікторія",
+    "url": "https://www.turpravda.ua/uc/nikolaevka/Viktorija-h33121.html",
+    "rate": "9.0",
+    "city": "Місхор",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/12/80/128097.jpg"
+  },
+  {
+    "id": 178,
+    "name": "Сонячний",
+    "url": "https://www.turpravda.ua/uc/beregovoe_feodosija/_olnechnyy-h22490.html",
+    "rate": "9.0",
+    "city": "Місхор",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/16/72/167200.jpg"
+  },
+  {
+    "id": 179,
+    "name": "Русь",
+    "url": "https://www.turpravda.ua/uc/peschanoe/Rus-h26896.html",
+    "rate": "9.0",
+    "city": "Місхор",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/07/98/79818.jpg"
+  },
+  {
+    "id": 180,
+    "name": "Villadel Mar",
+    "url": "https://www.turpravda.ua/uc/utes/Villa_del_Mar-h23447.html",
+    "rate": "9.0",
+    "city": "Місхор",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/05/96/59630.jpg"
+  },
+  {
+    "id": 181,
+    "name": "Екзотик",
+    "url": "https://www.turpravda.ua/uc/beregovoe_feodosija/Ekzotik-h27640.html",
+    "rate": "9.0",
+    "city": "Місхор",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/08/31/83159.jpg"
+  },
+  {
+    "id": 182,
+    "name": "Кедр- Схід",
+    "url": "https://www.turpravda.ua/uc/alupka/Kedr_Vostok-h27637.html",
+    "rate": "9.0",
+    "city": "Місхор",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/08/31/83152.jpg"
+  },
+  {
+    "id": 183,
+    "name": "Парк-готель Пісочна Бухта",
+    "url": "https://www.turpravda.ua/uc/sevastopol/park_otel_i_pansionat_pesochnaja_buhta-h34983.html",
+    "rate": "9.0",
+    "city": "Місхор",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "4*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/04/03/53/4035323.jpg"
+  },
+  {
+    "id": 184,
+    "name": "Вілла Крістал",
+    "url": "https://www.turpravda.ua/uc/sevastopol/Villa_Kristal-h33884.html",
+    "rate": "9.0",
+    "city": "Місхор",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/13/64/136402.jpg"
+  },
+  {
+    "id": 185,
+    "name": "Верхня Верона",
+    "url": "https://www.turpravda.ua/uc/utes/Verhnjaja_Verona-h27638.html",
+    "rate": "9.0",
+    "city": "Місхор",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/08/31/83156.jpg"
+  },
+  {
+    "id": 201,
+    "name": "Мелек",
+    "url": "https://www.turpravda.ua/uc/morskoe/Melek-h35681.html",
+    "rate": "10.0",
+    "city": "Євпаторія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/15/41/154145.jpg"
+  },
+  {
+    "id": 202,
+    "name": "Астарта",
+    "url": "https://www.turpravda.ua/uc/sudak/Astarta-h34340.html",
+    "rate": "10.0",
+    "city": "Євпаторія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "4*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/14/17/141747.jpg"
+  },
+  {
+    "id": 203,
+    "name": "Вілла Магнолія",
+    "url": "https://www.turpravda.ua/uc/sevastopol/Villa_Magnolija-h20072.html",
+    "rate": "10.0",
+    "city": "Євпаторія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/04/01/40122.jpg"
+  },
+  {
+    "id": 204,
+    "name": "Камелія- Кафа",
+    "url": "https://www.turpravda.ua/uc/koktebel/Kamelija_Kafa-h25651.html",
+    "rate": "10.0",
+    "city": "Євпаторія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/07/48/74838.jpg"
+  },
+  {
+    "id": 205,
+    "name": "Громове Море",
+    "url": "https://www.turpravda.ua/uc/chernomorskoye/Gromovoe_More-h33782.html",
+    "rate": "10.0",
+    "city": "Євпаторія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/13/50/135026.jpg"
+  },
+  {
+    "id": 206,
+    "name": "Перлина Holiday",
+    "url": "https://www.turpravda.ua/uc/evpatoria/Zhemchuzhina_Holiday-h34828.html",
+    "rate": "10.0",
+    "city": "Євпаторія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/14/75/147567.jpg"
+  },
+  {
+    "id": 207,
+    "name": "Зюйд",
+    "url": "https://www.turpravda.ua/uc/sevastopol/Zjuyd-h25246.html",
+    "rate": "10.0",
+    "city": "Євпаторія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/07/21/72153.jpg"
+  },
+  {
+    "id": 208,
+    "name": "Санта Барбара",
+    "url": "https://www.turpravda.ua/uc/utes/Santa_Barbara-h21636.html",
+    "rate": "10.0",
+    "city": "Євпаторія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/08/14/81461.jpg"
+  },
+  {
+    "id": 209,
+    "name": "Пелікан",
+    "url": "https://www.turpravda.ua/uc/alushta/Pelikan-h26454.html",
+    "rate": "10.0",
+    "city": "Євпаторія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/07/83/78338.jpg"
+  },
+  {
+    "id": 210,
+    "name": "Надія",
+    "url": "https://www.turpravda.ua/uc/alupka/nadezhda-h63676.html",
+    "rate": "10.0",
+    "city": "Євпаторія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/02/49/71/2497186.jpg"
+  },
+  {
+    "id": 226,
+    "name": "Агро",
+    "url": "https://www.turpravda.ua/uc/feodosia/Agro-h33363.html",
+    "rate": "10.0",
+    "city": "Орджонікідзе",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/21/73/217301.jpg"
+  },
+  {
+    "id": 227,
+    "name": "Еллінг Бриз",
+    "url": "https://www.turpravda.ua/uc/feodosia/Elling_Briz-h37365.html",
+    "rate": "10.0",
+    "city": "Орджонікідзе",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/17/32/173232.jpg"
+  },
+  {
+    "id": 228,
+    "name": "Грінландія",
+    "url": "https://www.turpravda.ua/uc/feodosia/Grinlandija-h23086.html",
+    "rate": "10.0",
+    "city": "Орджонікідзе",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "/static/img/no-image.png"
+  },
+  {
+    "id": 229,
+    "name": "Золотіпіски",
+    "url": "https://www.turpravda.ua/uc/feodosia/_olotye_peski-h36751.html",
+    "rate": "10.0",
+    "city": "Орджонікідзе",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/16/92/169226.jpg"
+  },
+  {
+    "id": 230,
+    "name": "Смотрич",
+    "url": "https://www.turpravda.ua/uc/foros/Smotrich-h23085.html",
+    "rate": "10.0",
+    "city": "Орджонікідзе",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "/static/img/no-image.png"
+  },
+  {
+    "id": 231,
+    "name": "Кацівелі , Будиноктворчостівчених",
+    "url": "https://www.turpravda.ua/uc/kaciveli/Kaciveli__Dom_tvorchestva_uchenyh-h10653.html",
+    "rate": "10.0",
+    "city": "Орджонікідзе",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/02/41/24107.jpg"
+  },
+  {
+    "id": 232,
+    "name": "Благодатнийдвір",
+    "url": "https://www.turpravda.ua/uc/kanaka/Blagodatnyy_Dvor-h46767.html",
+    "rate": "10.0",
+    "city": "Орджонікідзе",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/70/59/705999.jpg"
+  },
+  {
+    "id": 233,
+    "name": "Анкор",
+    "url": "https://www.turpravda.ua/uc/kerch/Ankor-h39158.html",
+    "rate": "10.0",
+    "city": "Орджонікідзе",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/21/66/216638.jpg"
+  },
+  {
+    "id": 234,
+    "name": "Керч",
+    "url": "https://www.turpravda.ua/uc/kerch/Kerch-h22658.html",
+    "rate": "10.0",
+    "city": "Орджонікідзе",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/05/56/55615.jpg"
+  },
+  {
+    "id": 235,
+    "name": "La Grace",
+    "url": "https://www.turpravda.ua/uc/kerch/la_grace-h54696.html",
+    "rate": "10.0",
+    "city": "Орджонікідзе",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/04/24/08/4240875.jpg"
+  },
+  {
+    "id": 251,
+    "name": "Katrin",
+    "url": "https://www.turpravda.ua/uc/ordzhonikidze/Katrin-h48206.html",
+    "rate": "8.7",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "/static/img/no-image.png"
+  },
+  {
+    "id": 252,
+    "name": "Затишнийдворик",
+    "url": "https://www.turpravda.ua/uc/ordzhonikidze/Ujutnyy_dvorik-h45588.html",
+    "rate": "8.7",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/58/56/585611.jpg"
+  },
+  {
+    "id": 253,
+    "name": "Європа",
+    "url": "https://www.turpravda.ua/uc/partenit/Evropa-h39254.html",
+    "rate": "8.7",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "4*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/22/17/221768.jpg"
+  },
+  {
+    "id": 254,
+    "name": "Олексія",
+    "url": "https://www.turpravda.ua/uc/peschanoe/Aleksija-h87588.html",
+    "rate": "8.7",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/04/21/98/4219809.jpg"
+  },
+  {
+    "id": 255,
+    "name": "Піщаневлітку",
+    "url": "https://www.turpravda.ua/uc/peschanoe/Peschanoe_Letom-h40189.html",
+    "rate": "8.7",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/25/27/252770.jpg"
+  },
+  {
+    "id": 256,
+    "name": "Бірлік",
+    "url": "https://www.turpravda.ua/uc/peschanoe/_irlik-h36551.html",
+    "rate": "8.7",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/16/73/167327.jpg"
+  },
+  {
+    "id": 257,
+    "name": "Морія",
+    "url": "https://www.turpravda.ua/uc/rybache/Morija-h31593.html",
+    "rate": "8.7",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/11/21/112117.jpg"
+  },
+  {
+    "id": 258,
+    "name": "Azov- Deaz",
+    "url": "https://www.turpravda.ua/uc/schjolkino/Azov_Deaz-h35201.html",
+    "rate": "8.7",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "/static/img/no-image.png"
+  },
+  {
+    "id": 259,
+    "name": "Атлантика",
+    "url": "https://www.turpravda.ua/uc/sevastopol/Atlantika-h25865.html",
+    "rate": "8.7",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/07/58/75869.jpg"
+  },
+  {
+    "id": 260,
+    "name": "Кримськийдворик",
+    "url": "https://www.turpravda.ua/uc/sevastopol/Krymskiy_dvorik-h22804.html",
+    "rate": "8.7",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "/static/img/no-image.png"
+  },
+  {
+    "id": 261,
+    "name": "Лабораторіяпригод",
+    "url": "https://www.turpravda.ua/uc/sevastopol/Laboratorija_prikljucheniy-h36323.html",
+    "rate": "8.7",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/03/92/93/3929338.jpg"
+  },
+  {
+    "id": 262,
+    "name": "Соколине Гніздо",
+    "url": "https://www.turpravda.ua/uc/solnechnegorskoe/Sokolinoe_Gnezdo-h35061.html",
+    "rate": "8.7",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/14/91/149143.jpg"
+  },
+  {
+    "id": 263,
+    "name": "Родзинки",
+    "url": "https://www.turpravda.ua/uc/sudak/izjum-h82155.html",
+    "rate": "8.7",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/03/74/54/3745414.jpg"
+  },
+  {
+    "id": 264,
+    "name": "Південний Дворик",
+    "url": "https://www.turpravda.ua/uc/sudak/Juzhnyy_Dvorik-h29616.html",
+    "rate": "8.7",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/12/54/125434.jpg"
+  },
+  {
+    "id": 265,
+    "name": "Максим",
+    "url": "https://www.turpravda.ua/uc/sudak/Maksim-h41107.html",
+    "rate": "8.7",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/28/20/282003.jpg"
+  },
+  {
+    "id": 266,
+    "name": "Мрія",
+    "url": "https://www.turpravda.ua/uc/uglovoe/Mechta-h35408.html",
+    "rate": "8.7",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/15/15/151542.jpg"
+  },
+  {
+    "id": 267,
+    "name": "999",
+    "url": "https://www.turpravda.ua/uc/yalta/999-h35059.html",
+    "rate": "8.7",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/14/91/149139.jpg"
+  },
+  {
+    "id": 268,
+    "name": "Лайм",
+    "url": "https://www.turpravda.ua/uc/yalta/Lajm-h83954.html",
+    "rate": "8.7",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/03/93/21/3932184.jpg"
+  },
+  {
+    "id": 269,
+    "name": "Paradise",
+    "url": "https://www.turpravda.ua/uc/yalta/Paradise-h33013.html",
+    "rate": "8.7",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/12/71/127152.jpg"
+  },
+  {
+    "id": 270,
+    "name": "Фороськийберег",
+    "url": "https://www.turpravda.ua/uc/foros/Forosskiy_bereg-h15451.html",
+    "rate": "8.7",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/02/48/24858.jpg"
+  },
+  {
+    "id": 271,
+    "name": "Еллінгив Орджонікідзе",
+    "url": "https://www.turpravda.ua/uc/ordzhonikidze/Ellingi_v_Ordzhonikidze-h27556.html",
+    "rate": "8.7",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "/static/img/no-image.png"
+  },
+  {
+    "id": 272,
+    "name": "Вежа",
+    "url": "https://www.turpravda.ua/uc/sevastopol/Bashnja-h19107.html",
+    "rate": "8.7",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/02/07/97/2079711.jpg"
+  },
+  {
+    "id": 273,
+    "name": "Москва",
+    "url": "https://www.turpravda.ua/uc/alushta/Moskva-h16589.html",
+    "rate": "8.7",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/02/78/27829.jpg"
+  },
+  {
+    "id": 274,
+    "name": "Семіраміда",
+    "url": "https://www.turpravda.ua/uc/koktebel/_emiramida-h21060.html",
+    "rate": "8.7",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/07/44/74455.jpg"
+  },
+  {
+    "id": 275,
+    "name": "Морський( Миндальнийгай)",
+    "url": "https://www.turpravda.ua/uc/alushta/Morskoy__Mindalnaja_roscha_-h20676.html",
+    "rate": "8.7",
+    "city": "Алушта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/04/30/43070.jpg"
+  },
+  {
+    "id": 276,
+    "name": "Затишний",
+    "url": "https://www.turpravda.ua/uc/alushta/Ujutnyy-h33641.html",
+    "rate": "7.8",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "/static/img/no-image.png"
+  },
+  {
+    "id": 277,
+    "name": "Софія",
+    "url": "https://www.turpravda.ua/uc/sevastopol/Sofija-h22041.html",
+    "rate": "7.8",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/05/17/51713.jpg"
+  },
+  {
+    "id": 278,
+    "name": "Чайка",
+    "url": "https://www.turpravda.ua/uc/utes/Chayka8-h23912.html",
+    "rate": "7.8",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/65/92/659202.jpg"
+  },
+  {
+    "id": 279,
+    "name": "Бриз- Морське",
+    "url": "https://www.turpravda.ua/uc/morskoe/Briz_Morskoe-h30390.html",
+    "rate": "7.8",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/10/08/100897.jpg"
+  },
+  {
+    "id": 280,
+    "name": "Атлантус",
+    "url": "https://www.turpravda.ua/uc/orlovka/Atlantus-h20302.html",
+    "rate": "7.8",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/04/11/41190.jpg"
+  },
+  {
+    "id": 281,
+    "name": "Shangri La",
+    "url": "https://www.turpravda.ua/uc/foros/ShangriLa-h22843.html",
+    "rate": "7.8",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/05/63/56395.jpg"
+  },
+  {
+    "id": 282,
+    "name": "Вілла Бєлів",
+    "url": "https://www.turpravda.ua/uc/alushta/Villa_Beliv-h37001.html",
+    "rate": "7.8",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/17/09/170931.jpg"
+  },
+  {
+    "id": 283,
+    "name": "Валентина",
+    "url": "https://www.turpravda.ua/uc/beregovoe_feodosija/U_Valentina-h25172.html",
+    "rate": "7.8",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/07/88/78882.jpg"
+  },
+  {
+    "id": 284,
+    "name": "Магнолія",
+    "url": "https://www.turpravda.ua/uc/chernomorskoye/Magnolija-h35093.html",
+    "rate": "7.8",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/14/93/149311.jpg"
+  },
+  {
+    "id": 285,
+    "name": "Вілла Плаятіна",
+    "url": "https://www.turpravda.ua/uc/chernomorskoye/Villa_Plajatina-h22163.html",
+    "rate": "7.8",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/03/02/53/3025391.jpg"
+  },
+  {
+    "id": 286,
+    "name": "Променистий",
+    "url": "https://www.turpravda.ua/uc/evpatoria/Luchistyy-h21865.html",
+    "rate": "7.8",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/05/93/59377.jpg"
+  },
+  {
+    "id": 287,
+    "name": "Наукраїнській",
+    "url": "https://www.turpravda.ua/uc/feodosia/Na_Ukrainskoy-h21711.html",
+    "rate": "7.8",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/04/98/49870.jpg"
+  },
+  {
+    "id": 288,
+    "name": "Календи",
+    "url": "https://www.turpravda.ua/uc/foros/_alendy-h19713.html",
+    "rate": "7.8",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/03/80/38002.jpg"
+  },
+  {
+    "id": 289,
+    "name": "Алі-баба",
+    "url": "https://www.turpravda.ua/uc/mishor/Ali_baba-h40842.html",
+    "rate": "7.8",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/27/48/274838.jpg"
+  },
+  {
+    "id": 290,
+    "name": "КрихіткаЄнот",
+    "url": "https://www.turpravda.ua/uc/morskoe/Kroshka_Enot-h40602.html",
+    "rate": "7.8",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/26/64/266467.jpg"
+  },
+  {
+    "id": 291,
+    "name": "Лагуна",
+    "url": "https://www.turpravda.ua/uc/peschanoe/Laguna3-h27245.html",
+    "rate": "7.8",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/08/14/81464.jpg"
+  },
+  {
+    "id": 292,
+    "name": "Апартаменти Парк Готель",
+    "url": "https://www.turpravda.ua/uc/sevastopol/Viktori_Park_Otel-h39971.html",
+    "rate": "7.8",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/46/98/469893.jpg"
+  },
+  {
+    "id": 293,
+    "name": "Villa Indigo",
+    "url": "https://www.turpravda.ua/uc/sevastopol/Villa_Indigo-h34567.html",
+    "rate": "7.8",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/14/54/145415.jpg"
+  },
+  {
+    "id": 294,
+    "name": "Будинокна Суворовськомуузвозі",
+    "url": "https://www.turpravda.ua/uc/simferopol/Dom_na_Suvorovskom_Spuske-h33847.html",
+    "rate": "7.8",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "/static/img/no-image.png"
+  },
+  {
+    "id": 295,
+    "name": "Шериф",
+    "url": "https://www.turpravda.ua/uc/sudak/Sherif-h29586.html",
+    "rate": "7.8",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/09/61/96148.jpg"
+  },
+  {
+    "id": 296,
+    "name": "Міні-готель№93",
+    "url": "https://www.turpravda.ua/uc/utes/Mini_otel___93-h31462.html",
+    "rate": "7.8",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/11/08/110891.jpg"
+  },
+  {
+    "id": 297,
+    "name": "Ганна",
+    "url": "https://www.turpravda.ua/uc/yalta/Anna-h33426.html",
+    "rate": "7.8",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/01/74/18/1741811.jpg"
+  },
+  {
+    "id": 298,
+    "name": "Парк Роял",
+    "url": "https://www.turpravda.ua/uc/yalta/Park_Rojal-h15457.html",
+    "rate": "7.8",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/02/48/24865.jpg"
+  },
+  {
+    "id": 299,
+    "name": "Центрспорту Еволюція",
+    "url": "https://www.turpravda.ua/uc/evpatoria/Nacionalnyy_Sportivno_Ozdorovitelnyy_Centr-h45834.html",
+    "rate": "7.8",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/65/32/653247.jpg"
+  },
+  {
+    "id": 300,
+    "name": "Морська Феєрія",
+    "url": "https://www.turpravda.ua/uc/sevastopol/Morskaja_Feerija-h41729.html",
+    "rate": "7.8",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/29/85/298535.jpg"
+  },
+  {
+    "id": 301,
+    "name": "Надія(готельзакритий)",
+    "url": "https://www.turpravda.ua/uc/evpatoria/Nadezhda7-h39907.html",
+    "rate": "8.5",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/60/83/608388.jpg"
+  },
+  {
+    "id": 302,
+    "name": "Вілла Класік",
+    "url": "https://www.turpravda.ua/uc/koktebel/Villa_Klassik-h22638.html",
+    "rate": "8.5",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/05/53/55309.jpg"
+  },
+  {
+    "id": 303,
+    "name": "Родос",
+    "url": "https://www.turpravda.ua/uc/koreiz/Rodos-h22287.html",
+    "rate": "8.5",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "/static/img/no-image.png"
+  },
+  {
+    "id": 304,
+    "name": "Майамі",
+    "url": "https://www.turpravda.ua/uc/privetnoe/Mayami-h34292.html",
+    "rate": "8.5",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/14/11/141101.jpg"
+  },
+  {
+    "id": 305,
+    "name": "Фрегат Санта- Марія",
+    "url": "https://www.turpravda.ua/uc/rybache/Fregat_Santa_Marija-h31596.html",
+    "rate": "8.5",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/11/21/112193.jpg"
+  },
+  {
+    "id": 306,
+    "name": "Дача Надія",
+    "url": "https://www.turpravda.ua/uc/yalta/Dacha_Nadezhda-h21029.html",
+    "rate": "8.5",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/04/56/45667.jpg"
+  },
+  {
+    "id": 307,
+    "name": "Артеміда",
+    "url": "https://www.turpravda.ua/uc/kaciveli/Artemida-h19848.html",
+    "rate": "8.5",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/05/70/57014.jpg"
+  },
+  {
+    "id": 308,
+    "name": "Ювілейна",
+    "url": "https://www.turpravda.ua/uc/nikolaevka/Jubileynaja1-h31490.html",
+    "rate": "8.5",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/11/12/111287.jpg"
+  },
+  {
+    "id": 309,
+    "name": "Весела Скорпена",
+    "url": "https://www.turpravda.ua/uc/novyy_svet/Veselaja_Skorpena-h37000.html",
+    "rate": "8.5",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/17/09/170928.jpg"
+  },
+  {
+    "id": 310,
+    "name": "Таврія",
+    "url": "https://www.turpravda.ua/uc/oliva/Tavrija-h19261.html",
+    "rate": "8.5",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/04/48/44827.jpg"
+  },
+  {
+    "id": 311,
+    "name": "Парк Чаїр",
+    "url": "https://www.turpravda.ua/uc/gaspra/Park_Chair-h23687.html",
+    "rate": "8.5",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "4*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/06/08/60860.jpg"
+  },
+  {
+    "id": 312,
+    "name": "Christie Hotel",
+    "url": "https://www.turpravda.ua/uc/mirnyy/christie_hotel-h41414.html",
+    "rate": "8.5",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "4*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/03/15/31/3153116.jpg"
+  },
+  {
+    "id": 313,
+    "name": "Горобка",
+    "url": "https://www.turpravda.ua/uc/evpatoria/Rjabinka-h25743.html",
+    "rate": "8.5",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/07/52/75243.jpg"
+  },
+  {
+    "id": 314,
+    "name": "Флора",
+    "url": "https://www.turpravda.ua/uc/chernomorskoye/Flora-h27649.html",
+    "rate": "8.5",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "/static/img/no-image.png"
+  },
+  {
+    "id": 315,
+    "name": "Аннушка",
+    "url": "https://www.turpravda.ua/uc/feodosia/Annushka-h18983.html",
+    "rate": "8.5",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/03/58/35817.jpg"
+  },
+  {
+    "id": 316,
+    "name": "Ассоль",
+    "url": "https://www.turpravda.ua/uc/feodosia/Assol-h20310.html",
+    "rate": "8.5",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/04/12/41230.jpg"
+  },
+  {
+    "id": 317,
+    "name": "Зоряний Бриг",
+    "url": "https://www.turpravda.ua/uc/gaspra/Zvezdnyy_Brig-h37228.html",
+    "rate": "8.5",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/17/24/172407.jpg"
+  },
+  {
+    "id": 318,
+    "name": "Замок Мрій",
+    "url": "https://www.turpravda.ua/uc/kerch/Zamok_Grez-h35047.html",
+    "rate": "8.5",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/14/90/149062.jpg"
+  },
+  {
+    "id": 319,
+    "name": "Дачі Місхор",
+    "url": "https://www.turpravda.ua/uc/koreiz/Dachi_Mishor-h19262.html",
+    "rate": "8.5",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/05/30/53057.jpg"
+  },
+  {
+    "id": 320,
+    "name": "Одіссей",
+    "url": "https://www.turpravda.ua/uc/nikolaevka/Odissey-h29662.html",
+    "rate": "8.5",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "/static/img/no-image.png"
+  },
+  {
+    "id": 321,
+    "name": "Розмарин",
+    "url": "https://www.turpravda.ua/uc/nikolaevka/Rozmarin-h26145.html",
+    "rate": "8.5",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "/static/img/no-image.png"
+  },
+  {
+    "id": 322,
+    "name": "Ніка",
+    "url": "https://www.turpravda.ua/uc/olenevka/Nika-h39084.html",
+    "rate": "8.5",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/21/57/215732.jpg"
+  },
+  {
+    "id": 323,
+    "name": "Аквамарин",
+    "url": "https://www.turpravda.ua/uc/privetnoe/Akvamarin7-h36025.html",
+    "rate": "8.5",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/15/90/159049.jpg"
+  },
+  {
+    "id": 324,
+    "name": "Be Happy",
+    "url": "https://www.turpravda.ua/uc/rybache/Be_Happy-h25583.html",
+    "rate": "8.5",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/07/43/74316.jpg"
+  },
+  {
+    "id": 325,
+    "name": "Гастхоф Катріна",
+    "url": "https://www.turpravda.ua/uc/sevastopol/Katrina-h20485.html",
+    "rate": "8.5",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/80/40/804045.jpg"
+  },
+  {
+    "id": 326,
+    "name": "Віренея",
+    "url": "https://www.turpravda.ua/uc/uglovoe/Vireneja-h33350.html",
+    "rate": "9.0",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/13/05/130570.jpg"
+  },
+  {
+    "id": 327,
+    "name": "Афродіта",
+    "url": "https://www.turpravda.ua/uc/utes/Afrodita-h40377.html",
+    "rate": "9.0",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/25/77/257730.jpg"
+  },
+  {
+    "id": 328,
+    "name": "Вчитель",
+    "url": "https://www.turpravda.ua/uc/yalta/Uchitel-h26922.html",
+    "rate": "9.0",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "/static/img/no-image.png"
+  },
+  {
+    "id": 329,
+    "name": "Причал- Приморський",
+    "url": "https://www.turpravda.ua/uc/feodosia/Prichal_Primorskiy-h37561.html",
+    "rate": "9.0",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/17/41/174165.jpg"
+  },
+  {
+    "id": 330,
+    "name": "Едельвейс",
+    "url": "https://www.turpravda.ua/uc/koktebel/Edelveys2-h37229.html",
+    "rate": "9.0",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/17/24/172409.jpg"
+  },
+  {
+    "id": 331,
+    "name": "Ковчег",
+    "url": "https://www.turpravda.ua/uc/mirnyy/Kovcheg-h38287.html",
+    "rate": "9.0",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/03/44/34409.jpg"
+  },
+  {
+    "id": 332,
+    "name": "Бриз",
+    "url": "https://www.turpravda.ua/uc/schjolkino/Briz-h31709.html",
+    "rate": "9.0",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/11/35/113557.jpg"
+  },
+  {
+    "id": 333,
+    "name": "Міднийвершник",
+    "url": "https://www.turpravda.ua/uc/yalta/Mednyy_Vsadnik-h37376.html",
+    "rate": "9.0",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/17/32/173267.jpg"
+  },
+  {
+    "id": 334,
+    "name": "Арт-готель Україна",
+    "url": "https://www.turpravda.ua/uc/sevastopol/Ukraina-h18605.html",
+    "rate": "9.0",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/04/44/23/4442397.jpg"
+  },
+  {
+    "id": 335,
+    "name": "Алупка",
+    "url": "https://www.turpravda.ua/uc/alupka/Alupka1-h32995.html",
+    "rate": "9.0",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "/static/img/no-image.png"
+  },
+  {
+    "id": 336,
+    "name": "Юна",
+    "url": "https://www.turpravda.ua/uc/alupka/Juna-h19957.html",
+    "rate": "9.0",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/05/40/54094.jpg"
+  },
+  {
+    "id": 337,
+    "name": "Амеліа",
+    "url": "https://www.turpravda.ua/uc/alushta/Amelia-h39425.html",
+    "rate": "9.0",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/22/60/226023.jpg"
+  },
+  {
+    "id": 338,
+    "name": "РелаксцентрІрей",
+    "url": "https://www.turpravda.ua/uc/alushta/Relaks_centr_Irey-h39245.html",
+    "rate": "9.0",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "4*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/22/24/222432.jpg"
+  },
+  {
+    "id": 339,
+    "name": "Вілла Слава",
+    "url": "https://www.turpravda.ua/uc/alushta/Villa_Slava-h19851.html",
+    "rate": "9.0",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/05/30/53026.jpg"
+  },
+  {
+    "id": 340,
+    "name": "Вілла Валентина",
+    "url": "https://www.turpravda.ua/uc/alushta/villa_valentina-h65991.html",
+    "rate": "9.0",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/02/59/99/2599951.jpg"
+  },
+  {
+    "id": 341,
+    "name": "Мераба",
+    "url": "https://www.turpravda.ua/uc/bakhchisaraj/Meraba-h20872.html",
+    "rate": "9.0",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/04/51/45135.jpg"
+  },
+  {
+    "id": 342,
+    "name": "Даніель",
+    "url": "https://www.turpravda.ua/uc/chernomorskoye/Daniel-h35490.html",
+    "rate": "9.0",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/15/23/152339.jpg"
+  },
+  {
+    "id": 343,
+    "name": "Яхонт",
+    "url": "https://www.turpravda.ua/uc/chernomorskoye/Jahont-h27546.html",
+    "rate": "9.0",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/08/25/82540.jpg"
+  },
+  {
+    "id": 344,
+    "name": "Апогей",
+    "url": "https://www.turpravda.ua/uc/evpatoria/Apogey-h37378.html",
+    "rate": "9.0",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/01/27/65/1276561.jpg"
+  },
+  {
+    "id": 345,
+    "name": "Dream Dom",
+    "url": "https://www.turpravda.ua/uc/evpatoria/Dream_Dom-h39864.html",
+    "rate": "9.0",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/24/04/240425.jpg"
+  },
+  {
+    "id": 346,
+    "name": "Флагман",
+    "url": "https://www.turpravda.ua/uc/evpatoria/Flagman-h38023.html",
+    "rate": "9.0",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/17/82/178251.jpg"
+  },
+  {
+    "id": 347,
+    "name": "Гліцинія",
+    "url": "https://www.turpravda.ua/uc/evpatoria/Glicinija-h23013.html",
+    "rate": "9.0",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/05/73/57310.jpg"
+  },
+  {
+    "id": 348,
+    "name": "Престиж",
+    "url": "https://www.turpravda.ua/uc/evpatoria/Prestizh-h31356.html",
+    "rate": "9.0",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/10/98/109897.jpg"
+  },
+  {
+    "id": 349,
+    "name": "Біляморя",
+    "url": "https://www.turpravda.ua/uc/evpatoria/U_Morja-h39630.html",
+    "rate": "9.0",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "/static/img/no-image.png"
+  },
+  {
+    "id": 350,
+    "name": "Домашнійзатишок",
+    "url": "https://www.turpravda.ua/uc/feodosia/Domashniy_Ujut-h47737.html",
+    "rate": "9.0",
+    "city": "Феодосія",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/78/28/782872.jpg"
+  },
+  {
+    "id": 351,
+    "name": "Вимпел",
+    "url": "https://www.turpravda.ua/uc/feodosia/Vympel-h33448.html",
+    "rate": "9.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/13/15/131534.jpg"
+  },
+  {
+    "id": 352,
+    "name": "Княжий Град",
+    "url": "https://www.turpravda.ua/uc/gaspra/Knjazhiy_Grad-h37375.html",
+    "rate": "9.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/23/75/237576.jpg"
+  },
+  {
+    "id": 353,
+    "name": "Рікко",
+    "url": "https://www.turpravda.ua/uc/kanaka/Rikko-h34968.html",
+    "rate": "9.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "/static/img/no-image.png"
+  },
+  {
+    "id": 354,
+    "name": "Коктевілль",
+    "url": "https://www.turpravda.ua/uc/koktebel/Koktevill-h45962.html",
+    "rate": "9.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/66/72/667295.jpg"
+  },
+  {
+    "id": 355,
+    "name": "Рів'єра",
+    "url": "https://www.turpravda.ua/uc/koktebel/Rivera-h40961.html",
+    "rate": "9.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/27/77/277763.jpg"
+  },
+  {
+    "id": 356,
+    "name": "Сердолікова Бухта",
+    "url": "https://www.turpravda.ua/uc/koktebel/Serdolikovaja_Buhta-h33447.html",
+    "rate": "9.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/13/15/131533.jpg"
+  },
+  {
+    "id": 357,
+    "name": "Міні-пансіонат Сапфір",
+    "url": "https://www.turpravda.ua/uc/kurortnoe/Mini_pansionat_Sapfir-h46251.html",
+    "rate": "9.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/68/00/680060.jpg"
+  },
+  {
+    "id": 358,
+    "name": "Міраж",
+    "url": "https://www.turpravda.ua/uc/medvedevo/Mirazh-h25882.html",
+    "rate": "9.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/07/59/75933.jpg"
+  },
+  {
+    "id": 359,
+    "name": "М Н Б",
+    "url": "https://www.turpravda.ua/uc/mirnyy/MNB-h50351.html",
+    "rate": "9.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/99/11/991181.jpg"
+  },
+  {
+    "id": 360,
+    "name": "Хвиля",
+    "url": "https://www.turpravda.ua/uc/morskoe/Volna-h25783.html",
+    "rate": "9.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/07/53/75378.jpg"
+  },
+  {
+    "id": 361,
+    "name": "Lovely Lounge",
+    "url": "https://www.turpravda.ua/uc/olenevka/Lovely_Lounge-h36389.html",
+    "rate": "9.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/16/42/164232.jpg"
+  },
+  {
+    "id": 362,
+    "name": "Медея",
+    "url": "https://www.turpravda.ua/uc/peschanoe/Medeja-h39825.html",
+    "rate": "9.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/23/80/238070.jpg"
+  },
+  {
+    "id": 363,
+    "name": "Смайл Хаус",
+    "url": "https://www.turpravda.ua/uc/peschanoe/Smayl_Haus-h39826.html",
+    "rate": "9.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/23/80/238073.jpg"
+  },
+  {
+    "id": 364,
+    "name": "Аква",
+    "url": "https://www.turpravda.ua/uc/rybache/Akva-h35298.html",
+    "rate": "9.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/15/07/150745.jpg"
+  },
+  {
+    "id": 365,
+    "name": "Villa Marmaris",
+    "url": "https://www.turpravda.ua/uc/rybache/Villa_Marmaris-h35380.html",
+    "rate": "9.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/09/03/90391.jpg"
+  },
+  {
+    "id": 366,
+    "name": "Фанміан",
+    "url": "https://www.turpravda.ua/uc/saki/Fanmian-h87034.html",
+    "rate": "9.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/04/11/51/4115198.jpg"
+  },
+  {
+    "id": 367,
+    "name": "Кримські Зорі",
+    "url": "https://www.turpravda.ua/uc/saki/Krymskie_Zori-h39533.html",
+    "rate": "9.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/22/80/228022.jpg"
+  },
+  {
+    "id": 368,
+    "name": "Марікон",
+    "url": "https://www.turpravda.ua/uc/saki/Marikon-h39534.html",
+    "rate": "9.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/22/80/228025.jpg"
+  },
+  {
+    "id": 369,
+    "name": "Rest Royally Hotel",
+    "url": "https://www.turpravda.ua/uc/saki/rest_royally_hotel-h52831.html",
+    "rate": "9.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/04/32/69/4326957.jpg"
+  },
+  {
+    "id": 370,
+    "name": "Північнесяйво",
+    "url": "https://www.turpravda.ua/uc/saki/Severnoe_sijanie-h19879.html",
+    "rate": "9.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/68/73/687328.jpg"
+  },
+  {
+    "id": 371,
+    "name": "Морськийзатишок",
+    "url": "https://www.turpravda.ua/uc/schjolkino/Morskoj_ujut-h85053.html",
+    "rate": "9.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/04/00/41/4004137.jpg"
+  },
+  {
+    "id": 372,
+    "name": "Аврора",
+    "url": "https://www.turpravda.ua/uc/sevastopol/Avrora-h37566.html",
+    "rate": "9.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/17/42/174276.jpg"
+  },
+  {
+    "id": 373,
+    "name": "Чорноморська Атланта",
+    "url": "https://www.turpravda.ua/uc/sevastopol/Chernomorskaja_Atlanta-h23672.html",
+    "rate": "9.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "/static/img/no-image.png"
+  },
+  {
+    "id": 374,
+    "name": "Lot",
+    "url": "https://www.turpravda.ua/uc/sevastopol/Lot-h37567.html",
+    "rate": "9.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/17/42/174281.jpg"
+  },
+  {
+    "id": 375,
+    "name": "Вербена- Пляж",
+    "url": "https://www.turpravda.ua/uc/sevastopol/Verbena_Pljazh-h33442.html",
+    "rate": "9.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/13/14/131469.jpg"
+  },
+  {
+    "id": 376,
+    "name": "У Чорногоморя",
+    "url": "https://www.turpravda.ua/uc/solnechnegorskoe/U_Chernogo_Morja-h47619.html",
+    "rate": "8.0",
+    "city": "Коктебель",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/75/87/758717.jpg"
+  },
+  {
+    "id": 377,
+    "name": "Вілла-І В",
+    "url": "https://www.turpravda.ua/uc/stereguschee/Villa_IV-h39558.html",
+    "rate": "8.0",
+    "city": "Коктебель",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/22/91/229143.jpg"
+  },
+  {
+    "id": 378,
+    "name": "De Albina",
+    "url": "https://www.turpravda.ua/uc/sudak/De_Albina-h47613.html",
+    "rate": "8.0",
+    "city": "Коктебель",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/75/82/758223.jpg"
+  },
+  {
+    "id": 379,
+    "name": "Капсель-Ільгері",
+    "url": "https://www.turpravda.ua/uc/sudak/Kapsel_Ilgeri-h46338.html",
+    "rate": "8.0",
+    "city": "Коктебель",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/68/51/685131.jpg"
+  },
+  {
+    "id": 380,
+    "name": "Львівськийзалізничник",
+    "url": "https://www.turpravda.ua/uc/sudak/Lvovskiy_zheleznodorozhnik-h15459.html",
+    "rate": "8.0",
+    "city": "Коктебель",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/02/48/24872.jpg"
+  },
+  {
+    "id": 381,
+    "name": "М'ята",
+    "url": "https://www.turpravda.ua/uc/sudak/Mjata-h38974.html",
+    "rate": "8.0",
+    "city": "Коктебель",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/21/45/214545.jpg"
+  },
+  {
+    "id": 382,
+    "name": "Парадіз",
+    "url": "https://www.turpravda.ua/uc/sudak/Paradiz-h39207.html",
+    "rate": "8.0",
+    "city": "Коктебель",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/21/89/218911.jpg"
+  },
+  {
+    "id": 383,
+    "name": "Каліпсо",
+    "url": "https://www.turpravda.ua/uc/utes/Kalipso-h26788.html",
+    "rate": "8.0",
+    "city": "Коктебель",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/07/94/79439.jpg"
+  },
+  {
+    "id": 384,
+    "name": "Монте Карло",
+    "url": "https://www.turpravda.ua/uc/utes/Monte_Karlo-h23674.html",
+    "rate": "8.0",
+    "city": "Коктебель",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/06/07/60764.jpg"
+  },
+  {
+    "id": 385,
+    "name": "Лана",
+    "url": "https://www.turpravda.ua/uc/yalta/Lana-h44737.html",
+    "rate": "8.0",
+    "city": "Коктебель",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/43/65/436569.jpg"
+  },
+  {
+    "id": 386,
+    "name": "Магістр",
+    "url": "https://www.turpravda.ua/uc/yalta/Magistr-h21632.html",
+    "rate": "8.0",
+    "city": "Коктебель",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/04/91/49160.jpg"
+  },
+  {
+    "id": 387,
+    "name": "Малахіт",
+    "url": "https://www.turpravda.ua/uc/yalta/Malahit-h23472.html",
+    "rate": "8.0",
+    "city": "Коктебель",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/13/29/132907.jpg"
+  },
+  {
+    "id": 388,
+    "name": "Леопіль",
+    "url": "https://www.turpravda.ua/uc/beregovoe/Leopol-h21675.html",
+    "rate": "8.0",
+    "city": "Коктебель",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/04/94/49489.jpg"
+  },
+  {
+    "id": 389,
+    "name": "Три Садиби",
+    "url": "https://www.turpravda.ua/uc/kaciveli/Tri_Usadby-h36626.html",
+    "rate": "8.0",
+    "city": "Коктебель",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "/static/img/no-image.png"
+  },
+  {
+    "id": 390,
+    "name": "Творча Хвиля",
+    "url": "https://www.turpravda.ua/uc/koktebel/Tvorcheskaja_Volna-h37477.html",
+    "rate": "8.0",
+    "city": "Коктебель",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/17/37/173729.jpg"
+  },
+  {
+    "id": 391,
+    "name": "Морська2",
+    "url": "https://www.turpravda.ua/uc/olenevka/morskaja_2-h23044.html",
+    "rate": "8.0",
+    "city": "Коктебель",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/02/53/57/2535716.jpg"
+  },
+  {
+    "id": 392,
+    "name": "Вітальня",
+    "url": "https://www.turpravda.ua/uc/partenit/Gostinyy_Dom-h34776.html",
+    "rate": "8.0",
+    "city": "Коктебель",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/14/72/147265.jpg"
+  },
+  {
+    "id": 393,
+    "name": "Євпаторіон",
+    "url": "https://www.turpravda.ua/uc/evpatoria/Evpatorion-h47146.html",
+    "rate": "8.0",
+    "city": "Коктебель",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/73/18/731880.jpg"
+  },
+  {
+    "id": 394,
+    "name": "Алупка",
+    "url": "https://www.turpravda.ua/uc/alupka/Alupka2-h22408.html",
+    "rate": "8.0",
+    "city": "Коктебель",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/05/38/53860.jpg"
+  },
+  {
+    "id": 395,
+    "name": "Dolce Vita",
+    "url": "https://www.turpravda.ua/uc/evpatoria/Dolce_Vita-h22845.html",
+    "rate": "8.0",
+    "city": "Коктебель",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/05/63/56332.jpg"
+  },
+  {
+    "id": 396,
+    "name": "Московськийдворик",
+    "url": "https://www.turpravda.ua/uc/evpatoria/Moskovskiy_dvorik-h30545.html",
+    "rate": "8.0",
+    "city": "Коктебель",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/10/22/102286.jpg"
+  },
+  {
+    "id": 397,
+    "name": "Ніка",
+    "url": "https://www.turpravda.ua/uc/evpatoria/Nika-h39608.html",
+    "rate": "8.0",
+    "city": "Коктебель",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/23/06/230684.jpg"
+  },
+  {
+    "id": 398,
+    "name": "Акварель",
+    "url": "https://www.turpravda.ua/uc/kerch/Akvarel-h32866.html",
+    "rate": "8.0",
+    "city": "Коктебель",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/12/60/126021.jpg"
+  },
+  {
+    "id": 399,
+    "name": "Місячний Бриз",
+    "url": "https://www.turpravda.ua/uc/kerch/Lunnyy_Briz-h22987.html",
+    "rate": "8.0",
+    "city": "Коктебель",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/05/71/57187.jpg"
+  },
+  {
+    "id": 400,
+    "name": "Біляверблюжихпагорбів",
+    "url": "https://www.turpravda.ua/uc/koktebel/U_verbljuzhih_holmov-h35479.html",
+    "rate": "8.0",
+    "city": "Коктебель",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/15/22/152262.jpg"
+  },
+  {
+    "id": 401,
+    "name": "Ассоль",
+    "url": "https://www.turpravda.ua/uc/nikolaevka/Assol-h36387.html",
+    "rate": "8.0",
+    "city": "Балаклава",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/16/42/164225.jpg"
+  },
+  {
+    "id": 402,
+    "name": "Затишок",
+    "url": "https://www.turpravda.ua/uc/nikolaevka/Ujut-h22433.html",
+    "rate": "8.0",
+    "city": "Балаклава",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/05/39/53995.jpg"
+  },
+  {
+    "id": 403,
+    "name": "У Леннари",
+    "url": "https://www.turpravda.ua/uc/saki/U_Lennary-h35261.html",
+    "rate": "8.0",
+    "city": "Балаклава",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/15/03/150396.jpg"
+  },
+  {
+    "id": 404,
+    "name": "Україна",
+    "url": "https://www.turpravda.ua/uc/simferopol/Ukraina-h37574.html",
+    "rate": "8.0",
+    "city": "Балаклава",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/17/42/174297.jpg"
+  },
+  {
+    "id": 405,
+    "name": "Росія",
+    "url": "https://www.turpravda.ua/uc/yalta/Rossija-h16514.html",
+    "rate": "8.0",
+    "city": "Балаклава",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/02/74/27435.jpg"
+  },
+  {
+    "id": 406,
+    "name": "Котедж Дельфін",
+    "url": "https://www.turpravda.ua/uc/alushta/Kottedzh_Delfin-h34079.html",
+    "rate": "8.0",
+    "city": "Балаклава",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/13/81/138192.jpg"
+  },
+  {
+    "id": 407,
+    "name": "Садиба Мисливця",
+    "url": "https://www.turpravda.ua/uc/alushta/Usadba_Ohotnika-h33780.html",
+    "rate": "8.0",
+    "city": "Балаклава",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/13/50/135016.jpg"
+  },
+  {
+    "id": 408,
+    "name": "Велика Ведмедиця",
+    "url": "https://www.turpravda.ua/uc/chernomorskoye/Bolshaja_medvedica-h36006.html",
+    "rate": "8.0",
+    "city": "Балаклава",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/15/87/158790.jpg"
+  },
+  {
+    "id": 409,
+    "name": "Leo Palace",
+    "url": "https://www.turpravda.ua/uc/chernomorskoye/Leo_Palace-h47591.html",
+    "rate": "8.0",
+    "city": "Балаклава",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "4*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/75/62/756240.jpg"
+  },
+  {
+    "id": 410,
+    "name": "Георгіївська",
+    "url": "https://www.turpravda.ua/uc/feodosia/Georgievskaja-h23868.html",
+    "rate": "8.0",
+    "city": "Балаклава",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/06/21/62135.jpg"
+  },
+  {
+    "id": 411,
+    "name": "Ластівка",
+    "url": "https://www.turpravda.ua/uc/koktebel/Lastochka-h35073.html",
+    "rate": "8.0",
+    "city": "Балаклава",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/14/91/149164.jpg"
+  },
+  {
+    "id": 412,
+    "name": "У Морьових",
+    "url": "https://www.turpravda.ua/uc/koktebel/U_Morevyh-h22639.html",
+    "rate": "8.0",
+    "city": "Балаклава",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/05/52/55251.jpg"
+  },
+  {
+    "id": 413,
+    "name": "Багатель",
+    "url": "https://www.turpravda.ua/uc/koreiz/Bagatel-h38368.html",
+    "rate": "8.0",
+    "city": "Балаклава",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/18/79/187924.jpg"
+  },
+  {
+    "id": 414,
+    "name": "Фантазія",
+    "url": "https://www.turpravda.ua/uc/krasnoperekopsk/Fantazija-h32233.html",
+    "rate": "8.0",
+    "city": "Балаклава",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/11/92/119272.jpg"
+  },
+  {
+    "id": 415,
+    "name": "Східнаказка",
+    "url": "https://www.turpravda.ua/uc/peschanoe/Vostochnaja_Skazka-h39906.html",
+    "rate": "8.0",
+    "city": "Балаклава",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/24/28/242841.jpg"
+  },
+  {
+    "id": 416,
+    "name": "Садиба Пушкіних",
+    "url": "https://www.turpravda.ua/uc/schjolkino/Usadba_Pushkinyh-h35040.html",
+    "rate": "8.0",
+    "city": "Балаклава",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/14/90/149027.jpg"
+  },
+  {
+    "id": 417,
+    "name": "Вілла Емма",
+    "url": "https://www.turpravda.ua/uc/sudak/Villa_Emma-h33373.html",
+    "rate": "8.0",
+    "city": "Балаклава",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/13/08/130846.jpg"
+  },
+  {
+    "id": 418,
+    "name": "Ногиу Морі",
+    "url": "https://www.turpravda.ua/uc/utes/Nogi_v_More-h40220.html",
+    "rate": "8.0",
+    "city": "Балаклава",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/28/43/284303.jpg"
+  },
+  {
+    "id": 419,
+    "name": "Пристань",
+    "url": "https://www.turpravda.ua/uc/alupka/Pristan-h17214.html",
+    "rate": "8.0",
+    "city": "Балаклава",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/02/97/29767.jpg"
+  },
+  {
+    "id": 420,
+    "name": "Елінг15",
+    "url": "https://www.turpravda.ua/uc/alushta/Elling_15-h16817.html",
+    "rate": "8.0",
+    "city": "Балаклава",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/02/86/28697.jpg"
+  },
+  {
+    "id": 421,
+    "name": "Фієста",
+    "url": "https://www.turpravda.ua/uc/alushta/Fiesta-h39420.html",
+    "rate": "8.0",
+    "city": "Балаклава",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/22/60/226009.jpg"
+  },
+  {
+    "id": 422,
+    "name": "Сатера",
+    "url": "https://www.turpravda.ua/uc/alushta/Satera-h22288.html",
+    "rate": "8.0",
+    "city": "Балаклава",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "/static/img/no-image.png"
+  },
+  {
+    "id": 423,
+    "name": "Бельбек",
+    "url": "https://www.turpravda.ua/uc/bakhchisaraj/Belbek-h36132.html",
+    "rate": "8.0",
+    "city": "Балаклава",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/16/12/161249.jpg"
+  },
+  {
+    "id": 424,
+    "name": "Привал",
+    "url": "https://www.turpravda.ua/uc/bakhchisaraj/Prival-h20254.html",
+    "rate": "8.0",
+    "city": "Балаклава",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/04/08/40899.jpg"
+  },
+  {
+    "id": 425,
+    "name": "Рибальська Слобода",
+    "url": "https://www.turpravda.ua/uc/balaklava/Rybackaja_Sloboda-h39385.html",
+    "rate": "8.0",
+    "city": "Балаклава",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/22/37/223729.jpg"
+  },
+  {
+    "id": 426,
+    "name": "Лазурний",
+    "url": "https://www.turpravda.ua/uc/beregovoe_feodosija/Lazurnyy4-h40939.html",
+    "rate": "8.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "/static/img/no-image.png"
+  },
+  {
+    "id": 427,
+    "name": "Гавань",
+    "url": "https://www.turpravda.ua/uc/chernomorskoye/Gavan-h20572.html",
+    "rate": "8.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/04/24/42428.jpg"
+  },
+  {
+    "id": 428,
+    "name": "Райдужна",
+    "url": "https://www.turpravda.ua/uc/evpatoria/Raduzhnaja-h24551.html",
+    "rate": "8.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/22/41/224119.jpg"
+  },
+  {
+    "id": 429,
+    "name": "Камелот",
+    "url": "https://www.turpravda.ua/uc/feodosia/Kamelot-h33341.html",
+    "rate": "8.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/13/04/130476.jpg"
+  },
+  {
+    "id": 430,
+    "name": "Каспій",
+    "url": "https://www.turpravda.ua/uc/kanaka/Kaspiy-h46764.html",
+    "rate": "8.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/70/59/705960.jpg"
+  },
+  {
+    "id": 431,
+    "name": "Світломаяка",
+    "url": "https://www.turpravda.ua/uc/kerch/Svet_majaka-h20774.html",
+    "rate": "8.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/04/36/43682.jpg"
+  },
+  {
+    "id": 432,
+    "name": "Калієра",
+    "url": "https://www.turpravda.ua/uc/koktebel/Kalliera-h21710.html",
+    "rate": "8.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/04/98/49864.jpg"
+  },
+  {
+    "id": 433,
+    "name": "Самоцвіти",
+    "url": "https://www.turpravda.ua/uc/koktebel/Samocvety-h22648.html",
+    "rate": "8.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/03/37/98/3379826.jpg"
+  },
+  {
+    "id": 434,
+    "name": "Софія",
+    "url": "https://www.turpravda.ua/uc/koktebel/Sofija-h35389.html",
+    "rate": "8.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/05/75/57526.jpg"
+  },
+  {
+    "id": 435,
+    "name": "У Кара- Дага",
+    "url": "https://www.turpravda.ua/uc/koktebel/U_Kara_Daga-h37478.html",
+    "rate": "8.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/17/37/173732.jpg"
+  },
+  {
+    "id": 436,
+    "name": "V I P-готель Алігатор",
+    "url": "https://www.turpravda.ua/uc/koreiz/VIP_otel_Alligator-h41775.html",
+    "rate": "8.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "/static/img/no-image.png"
+  },
+  {
+    "id": 437,
+    "name": "Спорт",
+    "url": "https://www.turpravda.ua/uc/nikolaevka/Sport-h39889.html",
+    "rate": "8.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/24/14/241416.jpg"
+  },
+  {
+    "id": 438,
+    "name": "Японськийсадкаміння",
+    "url": "https://www.turpravda.ua/uc/novyy_svet/Japonskiy_sad_kamney-h25766.html",
+    "rate": "8.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/11/71/117191.jpg"
+  },
+  {
+    "id": 439,
+    "name": "Степова",
+    "url": "https://www.turpravda.ua/uc/olenevka/Stepnaja-h38241.html",
+    "rate": "8.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/18/40/184052.jpg"
+  },
+  {
+    "id": 440,
+    "name": "Діна",
+    "url": "https://www.turpravda.ua/uc/orlovka/Dina-h19828.html",
+    "rate": "8.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/03/86/38666.jpg"
+  },
+  {
+    "id": 441,
+    "name": "Бебі-бум",
+    "url": "https://www.turpravda.ua/uc/peschanoe/Bebi_bum-h22555.html",
+    "rate": "8.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/05/47/54758.jpg"
+  },
+  {
+    "id": 442,
+    "name": "У Людмили",
+    "url": "https://www.turpravda.ua/uc/peschanoe/U_Ljudmily-h33804.html",
+    "rate": "8.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/13/52/135217.jpg"
+  },
+  {
+    "id": 443,
+    "name": "У Світлани",
+    "url": "https://www.turpravda.ua/uc/peschanoe/U_Svetlany-h38580.html",
+    "rate": "8.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/01/88/65/1886516.jpg"
+  },
+  {
+    "id": 444,
+    "name": "Катерина",
+    "url": "https://www.turpravda.ua/uc/saki/Katerina-h35407.html",
+    "rate": "8.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/18/98/189828.jpg"
+  },
+  {
+    "id": 445,
+    "name": "Логове Лева",
+    "url": "https://www.turpravda.ua/uc/saki/Logovo_Lva-h35032.html",
+    "rate": "8.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/14/89/148957.jpg"
+  },
+  {
+    "id": 446,
+    "name": "Міні-готельу Новофедорівці",
+    "url": "https://www.turpravda.ua/uc/saki/Mini_gostinica_v_Novofedorovke-h26514.html",
+    "rate": "8.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "/static/img/no-image.png"
+  },
+  {
+    "id": 447,
+    "name": "Бірюзовабухта",
+    "url": "https://www.turpravda.ua/uc/schjolkino/Birjuzovaja_buhta-h90036.html",
+    "rate": "8.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/04/35/49/4354923.jpg"
+  },
+  {
+    "id": 448,
+    "name": "Гостьовийбудинокна Кітенськійбухті",
+    "url": "https://www.turpravda.ua/uc/schjolkino/Gostevoy_dom_na_Kitenskoy_buhte-h33507.html",
+    "rate": "8.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/13/21/132190.jpg"
+  },
+  {
+    "id": 449,
+    "name": "Комфорт",
+    "url": "https://www.turpravda.ua/uc/schjolkino/Komfort-h39283.html",
+    "rate": "8.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/60/19/601938.jpg"
+  },
+  {
+    "id": 450,
+    "name": "Джулія",
+    "url": "https://www.turpravda.ua/uc/sevastopol/Dzhulija-h22454.html",
+    "rate": "8.0",
+    "city": "Севастополь",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/05/41/54101.jpg"
+  },
+  {
+    "id": 451,
+    "name": "Коралова",
+    "url": "https://www.turpravda.ua/uc/sevastopol/Korallovaja-h40604.html",
+    "rate": "8.0",
+    "city": "Ялта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/26/65/266532.jpg"
+  },
+  {
+    "id": 452,
+    "name": "Микита",
+    "url": "https://www.turpravda.ua/uc/sevastopol/Nikita-h36086.html",
+    "rate": "8.0",
+    "city": "Ялта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/60/84/608418.jpg"
+  },
+  {
+    "id": 453,
+    "name": "Відень",
+    "url": "https://www.turpravda.ua/uc/simferopol/Vena-h35175.html",
+    "rate": "8.0",
+    "city": "Ялта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/14/98/149847.jpg"
+  },
+  {
+    "id": 454,
+    "name": "Джур- Джур",
+    "url": "https://www.turpravda.ua/uc/solnechnegorskoe/Dzhur_Dzhur-h33585.html",
+    "rate": "8.0",
+    "city": "Ялта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/13/31/133134.jpg"
+  },
+  {
+    "id": 455,
+    "name": "Леман",
+    "url": "https://www.turpravda.ua/uc/sudak/Leman-h45641.html",
+    "rate": "8.0",
+    "city": "Ялта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/60/20/602012.jpg"
+  },
+  {
+    "id": 456,
+    "name": "Хані",
+    "url": "https://www.turpravda.ua/uc/uglovoe/Hani-h27865.html",
+    "rate": "8.0",
+    "city": "Ялта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/08/53/85395.jpg"
+  },
+  {
+    "id": 457,
+    "name": "Сан Андре",
+    "url": "https://www.turpravda.ua/uc/uglovoe/San_Andre-h39806.html",
+    "rate": "8.0",
+    "city": "Ялта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "/static/img/no-image.png"
+  },
+  {
+    "id": 458,
+    "name": "Елінг№152",
+    "url": "https://www.turpravda.ua/uc/utes/Elling__152-h44476.html",
+    "rate": "8.0",
+    "city": "Ялта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/40/29/402951.jpg"
+  },
+  {
+    "id": 459,
+    "name": "Фортуна",
+    "url": "https://www.turpravda.ua/uc/utes/Fortuna-h33569.html",
+    "rate": "8.0",
+    "city": "Ялта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/13/28/132895.jpg"
+  },
+  {
+    "id": 460,
+    "name": "Гала",
+    "url": "https://www.turpravda.ua/uc/yalta/Gala-h25424.html",
+    "rate": "8.0",
+    "city": "Ялта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "3*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/07/32/73246.jpg"
+  },
+  {
+    "id": 461,
+    "name": "Міні-готельбіля Вірменської Церкви",
+    "url": "https://www.turpravda.ua/uc/yalta/mini_otel_vozle_armjanskoj_cerkvi-h70086.html",
+    "rate": "8.0",
+    "city": "Ялта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "1*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/02/77/60/2776031.jpg"
+  },
+  {
+    "id": 462,
+    "name": "Золото Азарта",
+    "url": "https://www.turpravda.ua/uc/yalta/Zoloto_Azarta-h26381.html",
+    "rate": "8.0",
+    "city": "Ялта",
+    "service": "БезкоштовнийWi-Fi,\nВласнийпляж,\nСпа/велнес",
+    "status": "2*",
+    "img": "https://www.turpravda.com/otpimg/2/800x600/00/00/07/79/77981.jpg"
+  }
+]

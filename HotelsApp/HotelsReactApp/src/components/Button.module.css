@@ -1,0 +1,38 @@
+.blockButtons {
+  margin-bottom: 5rem;
+  margin-top: 10px;
+  margin-right: 55px;
+  margin-left: 0px;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 12%;
+  float: right;
+  background-color: #e8e8e8f0;
+  box-shadow: 0 0 5px rgba(63, 62, 62, 0.585);
+  border: 0.5px #d7d7d7 solid;
+  border-radius: 15px;
+}
+
+.ButtonCriterie,
+.ButtonAll {
+  width: 110px;
+  height: 40px;
+  border-radius: 9px;
+  border: 1px #d7d7d7;
+  box-shadow: 0 0 5px rgba(63, 62, 62, 0.585);
+  color: #252525;
+  font-size: 15px;
+  cursor: pointer;
+  max-width: 50%;
+  margin: 20px;
+  transition: transform 999999ms ease;
+}
+
+.ButtonCriterie:active,
+.ButtonAll:active {
+  background-color: #252525;
+  transform: scale(1.1);
+}

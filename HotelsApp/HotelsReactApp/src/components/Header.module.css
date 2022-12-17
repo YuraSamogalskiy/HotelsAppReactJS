@@ -1,0 +1,36 @@
+.logo {
+  font-weight: 600;
+  font-size: 28px;
+  float: left;
+  margin-left: 6rem;
+  margin-top: 2.5rem;
+}
+.header {
+  position: relative;
+  margin: 40px;
+}
+
+.addList {
+  margin-right: 4.5rem;
+  margin-top: 3.05rem;
+  font-size: 25px;
+  float: right;
+  cursor: pointer;
+  transition: color, transform 500ms ease;
+}
+
+.list {
+  position: absolute;
+  top: 30px;
+  right: 0;
+  width: 50px;
+  min-height: 100px;
+  background-color: rgb(116, 113, 109);
+  z-index: 1000;
+}
+
+.addList:hover,
+.addList:active {
+  color: #dc3d3d;
+  transform: scale(1.5);
+}

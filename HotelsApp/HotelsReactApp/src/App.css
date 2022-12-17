@@ -1,0 +1,55 @@
+.App {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.search {
+  /* text-align: center;
+  align: left; */
+
+  position: relative;
+  right: 26%;
+  width: 500px;
+  height: 38px;
+  padding: 10px;
+  margin-top: 200px;
+  margin-bottom: 100px;
+  margin-right: 262px;
+  font-size: 20px;
+  border-radius: 15px;
+  box-shadow: 0 0 5px rgba(63, 62, 62, 0.585);
+  border: 0.5px #d7d7d7 solid;
+  background-color: #f5f5f5;
+  outline: none;
+}
+
+/* .list {
+  padding: 0;
+  list-style: none;
+  text-align: center;
+}
+
+.listItem {
+  margin-bottom: 20px;
+  font-size: 25px;
+  color: rgba(199, 188, 188, 0.661);
+  font-weight: 300;
+} */
+
+/* .a {
+  position: relative;
+  
+}
+
+.b {
+  position: relative;
+ 
+} */
+
+/* .abc {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  width: 500px;
+  justify-content: flex-end;
+} */
